@@ -1,0 +1,49 @@
+﻿import Subscribe from '../src/components/mailchimp/subscribe.js'
+
+<Container>
+
+<Banner bgOverlay="#2C3E50" />
+
+<p>
+Greg Shaddix has been called our generation’s equivalent to Andy Griffith with just a touch of Mark Twain sprinkled in. Greg’s wit and down-home wisdom have entertained audiences of all sizes for over twenty years.  With life experiences as a boat captain to “pushing cows where they did not want to go” as a cowboy on a 186,000 acre ranch, Greg brings his audiences into his quirky and fantastical world where his storytelling leaves the listener wondering how much is fact and how much is fiction.
+</p>
+
+<div id="videos">
+  <h2>Videos</h2>
+</div>
+<p className="text-center">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheMockingbirdPodcast%2Fvideos%2F2783163075131086%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<p />
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheMockingbirdPodcast%2Fvideos%2F878815132572144%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<p />
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheMockingbirdPodcast%2Fvideos%2F185509159342954%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</p>
+
+<!--
+<Releases releases={props.releases} locale="en-US" />
+<ReleasesV2 releases={props.releases} />
+-->
+
+<!--
+<ShowsV2 shows={props.shows} locale="en-US" />
+-->
+
+<Shows shows={props.shows} />
+
+## Contact
+
+<!--
+  The `id="contact"` attribute below is for creating internal anchor link.
+  You can remove/change it, but make sure you edit the corresponding link
+  in src/gatsby-theme-musician/config/navigation.yml
+  See: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements/
+-->
+
+<div id="contact" className="text-center">
+
+<a href="mailto:cosmiccowboymedia@gmail.com">cosmiccowboymedia@gmail.com</a>
+<p />
+<Subscribe />
+</div>
+
+</Container>

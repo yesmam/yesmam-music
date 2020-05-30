@@ -1,0 +1,11 @@
+navigation:
+  - text: Videos
+    url: "#videos"
+  - text: Shows
+    url: "#shows"
+  - text: Contact
+    url: "#contact"
+  - text: Patreon
+    url: "https://www.patreon.com/themockingbirdpodcast"
+  - text: Merch
+    url: "https://ourmerch.store/greg-shaddix"
