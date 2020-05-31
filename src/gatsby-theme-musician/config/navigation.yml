@@ -1,11 +1,9 @@
 navigation:
-  - text: Videos
-    url: "#videos"
+  - text: Releases
+    url: "#releases"
   - text: Shows
     url: "#shows"
   - text: Contact
     url: "#contact"
-  - text: Patreon
-    url: "https://www.patreon.com/themockingbirdpodcast"
   - text: Merch
-    url: "https://ourmerch.store/greg-shaddix"
+    url: "https://squareup.com/store/yes_mam"

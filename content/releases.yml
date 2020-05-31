@@ -1,25 +1,33 @@
-- title: Sample Release 1
-  date: 2014-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Discogs
-      url: https://discogs.com
 
-- title: Sample Release 2
-  date: 2018-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Bandcamp
-      url: https://bandcamp.com
-
-- title: Sample Release 3
-  date: 2019-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: Heartbroken and Gone
+  date: 2020-05-05
+  release_type: Single
+  image: "./images/heartbroken.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/track/3NshxZYwJVVytprSJRJgjI
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/heartbroken-and-gone/1506087599
+
+- title: The Wolves
+  date: 2020-01-15
+  release_type: Single
+  image: "./images/thewolves.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/0eSZpgwBNDWTYsRrUJd5s5
+    - name: Apple Music
+      url: https://music.apple.com/us/album/heartbroken-and-gone/1506087599
+
+- title: Darlin
+  date: 2019-12-20
+  release_type: Single
+  image: "./images/darlin.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/55tYoL7xmQCFe3DBgwH5Nc
+    - name: Apple Music
+      url: https://music.apple.com/us/album/darlin-single/1488192189
+
+
+

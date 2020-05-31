@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Cosmic Cowboy Media",
-    description: "Cosmic Cowboy",
-    siteUrl: "https://cosmiccowboymedia.com"
+    title: "Yes M.A.M. Music",
+    description: "Yes M.A.M. Music",
+    siteUrl: "https://yesmam-music.com.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -21,7 +21,7 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        pwaName: 'Cosmic Cowboy'
+        pwaName: 'Yes M.A.M.'
       }
    },
     // Add gatsby-plugin-mailchimp
@@ -39,7 +39,7 @@ module.exports = {
         logo: "./src/favicon.png",
 
         // WebApp Manifest Configuration
-        appName: 'Cosmic Cowboy' // Inferred with your package.json
+        appName: 'Yes M.A.M.' // Inferred with your package.json
       }
     },
   ]

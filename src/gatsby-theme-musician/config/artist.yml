@@ -1,7 +1,7 @@
 artist:
-  name: Cosmic Cowboy Media
-  tagline: Greg Shaddix - podcaster, songwriter & maker of balloon animals out of the truth
-  seo_title: Podcaster, Singer, Songwriter
+  name: Yes M.A.M. Music
+  tagline: Middle Aged Men (M.A.M.)
+  seo_title: Yes M.A.M. Music
   # seo_description:
   # contact_twitter_username: gshaddixmusic
   # contact_phone: 
@@ -9,18 +9,14 @@ artist:
 
 social:
   - name: Facebook
-    url: https://www.facebook.com/TheMockingbirdPodcast/
+    url: https://www.facebook.com/yesmam2017
   - name: Instagram
-    url: https://www.instagram.com/cosmiccowboymedia/
-  - name: Twitter
-    url: https://twitter.com/gshaddixmusic
+    url: https://www.instagram.com/yesmammusic/
   - name: Youtube
-    url: https://www.youtube.com/themockingbird
+    url: https://www.youtube.com/channel/UCilRD3yW4Su2jhZItxb6D_Q
   - name: Spotify
-    url: https://open.spotify.com/show/6NbiepShAMRYu1x5jCk8Jc
+    url: https://open.spotify.com/artist/7pPuS77gOHBTDbVTIyH1th
   - name: Apple
-    url: https://podcasts.apple.com/us/podcast/the-mockingbird/id1454574904
-  - name: Podcast
-    url: https://www.stitcher.com/podcast/the-mockingbird
+    url: https://music.apple.com/us/artist/yes-m-a-m/1468009142
 
 site_language: en
