@@ -1,3 +1,12 @@
+- title: The Moment
+  date: 2020-06-10
+  release_type: Single
+  image: "./images/themoment.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/7pIcq4f3VfNkeVsRf8skTp?si=vmoha7d_T92u19v-8DlhFg
+    - name: Apple Music
+      url: https://music.apple.com/us/album/the-moment-single/1512515576
 
 - title: Heartbroken and Gone
   date: 2020-05-05
@@ -18,16 +27,3 @@
       url: https://open.spotify.com/track/0eSZpgwBNDWTYsRrUJd5s5
     - name: Apple Music
       url: https://music.apple.com/us/album/heartbroken-and-gone/1506087599
-
-- title: Darlin
-  date: 2019-12-20
-  release_type: Single
-  image: "./images/darlin.jpg"
-  links:
-    - name: Spotify
-      url: https://open.spotify.com/track/55tYoL7xmQCFe3DBgwH5Nc
-    - name: Apple Music
-      url: https://music.apple.com/us/album/darlin-single/1488192189
-
-
-
